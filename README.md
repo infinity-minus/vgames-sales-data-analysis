@@ -1,4 +1,4 @@
-# Video Games Data Analysis (1980-2020)
+# Video Games Data Analysis using MS Excel (1980-2020)
 ## Source: Kaggle
 https://www.kaggle.com/datasets/gregorut/videogamesales
 
